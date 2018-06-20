@@ -1,0 +1,10 @@
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':lib-retrofit')
+    compile project(':lib-rxjava')
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndGameDemo.iml" filepath="$PROJECT_DIR$/AndGameDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildsrc/buildsrc.iml" filepath="$PROJECT_DIR$/buildsrc/buildsrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterknife/butterknife.iml" filepath="$PROJECT_DIR$/butterknife/butterknife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterknife-annotations/butterknife-annotations.iml" filepath="$PROJECT_DIR$/butterknife-annotations/butterknife-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterknife-compiler/butterknife-compiler.iml" filepath="$PROJECT_DIR$/butterknife-compiler/butterknife-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-framework/core-framework.iml" filepath="$PROJECT_DIR$/core-framework/core-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-codec/lib-codec.iml" filepath="$PROJECT_DIR$/lib-codec/lib-codec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-gson/lib-gson.iml" filepath="$PROJECT_DIR$/lib-gson/lib-gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-okhttp/lib-okhttp.iml" filepath="$PROJECT_DIR$/lib-okhttp/lib-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-okio/lib-okio.iml" filepath="$PROJECT_DIR$/lib-okio/lib-okio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-picasso/lib-picasso.iml" filepath="$PROJECT_DIR$/lib-picasso/lib-picasso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-retrofit/lib-retrofit.iml" filepath="$PROJECT_DIR$/lib-retrofit/lib-retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-retrofit-adapter-rxjava/lib-retrofit-adapter-rxjava.iml" filepath="$PROJECT_DIR$/lib-retrofit-adapter-rxjava/lib-retrofit-adapter-rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-retrofit-converter-gson/lib-retrofit-converter-gson.iml" filepath="$PROJECT_DIR$/lib-retrofit-converter-gson/lib-retrofit-converter-gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-retrofit-mock/lib-retrofit-mock.iml" filepath="$PROJECT_DIR$/lib-retrofit-mock/lib-retrofit-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-rxandroid/lib-rxandroid.iml" filepath="$PROJECT_DIR$/lib-rxandroid/lib-rxandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-rxjava/lib-rxjava.iml" filepath="$PROJECT_DIR$/lib-rxjava/lib-rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-rxlifecycle/lib-rxlifecycle.iml" filepath="$PROJECT_DIR$/lib-rxlifecycle/lib-rxlifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-widget/lib-widget.iml" filepath="$PROJECT_DIR$/lib-widget/lib-widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin-support/plugin-support.iml" filepath="$PROJECT_DIR$/plugin-support/plugin-support.iml" />
+    </modules>
+  </component>
+</project>

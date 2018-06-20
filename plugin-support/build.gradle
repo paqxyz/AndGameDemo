@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':lib-codec')
+    compile project(':lib-gson')
+    compile project(':lib-okhttp')
+    compile project(':lib-okio')
+    compile project(':lib-retrofit-adapter-rxjava')
+    compile project(':lib-retrofit')
+    compile project(':lib-retrofit-converter-gson')
+    compile project(':lib-rxandroid')
+    compile project(':lib-rxjava')
+    compile project(':lib-rxlifecycle')
+    compile project(':lib-widget')
+    compile project(':lib-picasso')
+    compile project(':butterknife-annotations')
+    compile project(':butterknife')
+    compile project(':lib-retrofit-mock')
+}
